@@ -300,7 +300,7 @@ function Complain(props) {
                     </Grid>
 
                     <Grid item md={6}>
-                      <div className="text_filed_heading">Address</div>
+                      <div className="text_filed_heading">Address</div>  
                       <div className=" mr-2  mt-1">
                         <input
                           type="text"
